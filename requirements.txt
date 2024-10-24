@@ -1,0 +1,4 @@
+openai
+git+https://github.com/openai/swarm.git
+portkey-ai
+python-dotenv
