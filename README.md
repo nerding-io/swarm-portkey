@@ -14,7 +14,7 @@ This project demonstrates the integration of [OpenAI's Swarm](https://github.com
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nerding-io/swarm-portkey
 cd swarm-portkey
 ```
 
